@@ -2,6 +2,14 @@
 # 📊 Freemium Conversion Funnel – Power BI Dashboard
 *Visual Analytics on User Activation, Retention, and Product Feedback*
 
+## 🖼️ Dashboard Preview
+
+Here’s the final **Power BI Dashboard** for the Freemium Conversion Funnel project:
+
+<p align="center">
+  <img src="Dashboard.png" alt="Freemium Conversion Funnel Dashboard" width="85%">
+</p>
+
 ### 🌟 Project Overview
 Interactive dashboard to visualize how users move through the freemium funnel and what drives engagement and feedback.
 
