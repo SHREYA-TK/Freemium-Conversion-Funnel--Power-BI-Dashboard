@@ -5,7 +5,7 @@
 ### 🌟 Project Overview
 Interactive dashboard to visualize how users move through the freemium funnel and what drives engagement and feedback.
 
-👉 **Companion project:** [Freemium Conversion Funnel – SQL Analytics](INSERT_SQL_REPO_LINK_HERE)
+👉 **Companion project:** [Freemium Conversion Funnel – SQL Analytics](https://github.com/SHREYA-TK/Freemium-Conversion-Funnel-SQL-Analytics)
 
 ### 🧠 Objectives
 1. Visualize signup → activation → conversion.
@@ -60,4 +60,4 @@ Interactive dashboard to visualize how users move through the freemium funnel an
 ### 🧰 Tools
 Power BI, DAX, SQL, Excel/CSV
 
-###**Linked Project:** [SQL Analytics Project](INSERT_SQL_REPO_LINK_HERE)
+###**Linked Project:** [SQL Analytics Project](https://github.com/SHREYA-TK/Freemium-Conversion-Funnel-SQL-Analytics)
