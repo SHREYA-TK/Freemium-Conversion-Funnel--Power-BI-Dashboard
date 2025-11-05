@@ -1,0 +1,201 @@
+feedback_id,user_id,feature_id,feature_name,rating,comment,feedback_date
+1,217,7,AI Suggestions,2,Suggestions are random sometimes,2025-09-26
+2,167,1,Billing & Payments,3,Charged twice,2025-08-30
+3,29,4,Task Automation,4,Too many steps to set up rules,2025-10-14
+4,285,4,Task Automation,4,Automation saves me time,2025-10-09
+5,4,8,Reporting & Analytics,4,Reports are super clear,2025-10-27
+6,215,5,File Sharing,3,Sharing links broke once,2025-10-24
+7,202,7,AI Suggestions,5,AI tips are helpful,2025-08-19
+8,107,2,Team Collaboration,4,Easy to work together,2025-10-12
+9,10,6,Mobile Sync,5,App crashed offline,2025-07-28
+10,175,7,AI Suggestions,3,Suggestions are random sometimes,2025-10-30
+11,45,8,Reporting & Analytics,4,More filters needed,2025-09-07
+12,300,6,Mobile Sync,4,Sync works on my phone,2025-07-27
+13,138,2,Team Collaboration,3,Collab feels slow sometimes,2025-08-17
+14,32,3,Dashboard Customization,5,Can't reorder widgets,2025-09-11
+15,212,7,AI Suggestions,5,AI tips are helpful,2025-11-22
+16,45,3,Dashboard Customization,4,Love custom dashboards,2025-09-06
+17,234,3,Dashboard Customization,3,Can't reorder widgets,2025-08-13
+18,83,5,File Sharing,2,Access control confusing,2025-10-18
+19,80,8,Reporting & Analytics,3,Export buggy,2025-10-25
+20,289,8,Reporting & Analytics,5,Reports are super clear,2025-08-24
+21,239,1,Billing & Payments,2,Charged twice,2025-09-16
+22,127,2,Team Collaboration,4,Easy to work together,2025-10-28
+23,51,8,Reporting & Analytics,5,More filters needed,2025-09-09
+24,171,2,Team Collaboration,4,Team chat is great,2025-09-11
+25,5,4,Task Automation,4,Too many steps to set up rules,2025-08-31
+26,8,2,Team Collaboration,3,Team chat is great,2025-08-01
+27,120,6,Mobile Sync,4,Sync works on my phone,2025-10-15
+28,178,4,Task Automation,4,Automation saves me time,2025-10-12
+29,271,6,Mobile Sync,5,Sync works on my phone,2025-09-25
+30,185,4,Task Automation,4,Too many steps to set up rules,2025-09-08
+31,245,2,Team Collaboration,5,Collab feels slow sometimes,2025-07-29
+32,255,5,File Sharing,4,Sharing links broke once,2025-08-08
+33,243,7,AI Suggestions,2,Suggestions are random sometimes,2025-08-25
+34,192,4,Task Automation,3,Automation saves me time,2025-11-08
+35,36,1,Billing & Payments,3,Checkout was smooth,2025-09-03
+36,83,6,Mobile Sync,4,Sync works on my phone,2025-10-09
+37,173,2,Team Collaboration,4,Easy to work together,2025-10-29
+38,24,2,Team Collaboration,4,Collab feels slow sometimes,2025-10-14
+39,185,4,Task Automation,4,Automation saves me time,2025-09-02
+40,270,3,Dashboard Customization,2,Love custom dashboards,2025-10-05
+41,175,6,Mobile Sync,5,Sync works on my phone,2025-10-23
+42,103,8,Reporting & Analytics,4,Reports are super clear,2025-08-08
+43,77,6,Mobile Sync,3,Sync works on my phone,2025-08-17
+44,78,2,Team Collaboration,4,Team chat is great,2025-10-09
+45,262,4,Task Automation,5,Automation saves me time,2025-09-26
+46,293,4,Task Automation,4,Automation saves me time,2025-09-12
+47,165,6,Mobile Sync,4,App crashed offline,2025-09-28
+48,88,3,Dashboard Customization,4,Can't reorder widgets,2025-11-01
+49,45,4,Task Automation,4,Automation saves me time,2025-09-08
+50,161,8,Reporting & Analytics,3,Reports are super clear,2025-10-14
+51,246,2,Team Collaboration,3,Collab feels slow sometimes,2025-08-01
+52,3,6,Mobile Sync,5,Sync works on my phone,2025-07-10
+53,12,1,Billing & Payments,5,Charged twice,2025-10-24
+54,286,3,Dashboard Customization,3,UI needs themes,2025-08-21
+55,178,3,Dashboard Customization,3,Love custom dashboards,2025-10-09
+56,263,1,Billing & Payments,3,Checkout was smooth,2025-10-18
+57,241,4,Task Automation,3,Too many steps to set up rules,2025-07-31
+58,90,7,AI Suggestions,5,AI tips are helpful,2025-10-20
+59,58,8,Reporting & Analytics,4,Export buggy,2025-08-23
+60,139,6,Mobile Sync,3,App crashed offline,2025-11-22
+61,171,1,Billing & Payments,4,Checkout was smooth,2025-09-27
+62,13,4,Task Automation,3,Too many steps to set up rules,2025-11-04
+63,300,2,Team Collaboration,4,Collab feels slow sometimes,2025-07-12
+64,289,7,AI Suggestions,5,Suggestions are random sometimes,2025-08-31
+65,256,8,Reporting & Analytics,3,More filters needed,2025-10-31
+66,10,1,Billing & Payments,4,Checkout was smooth,2025-07-23
+67,161,5,File Sharing,5,Access control confusing,2025-10-24
+68,228,2,Team Collaboration,5,Team chat is great,2025-09-24
+69,191,4,Task Automation,4,Automation saves me time,2025-09-16
+70,4,6,Mobile Sync,5,App crashed offline,2025-10-27
+71,3,3,Dashboard Customization,5,Can't reorder widgets,2025-07-20
+72,5,7,AI Suggestions,3,Suggestions are random sometimes,2025-08-17
+73,167,8,Reporting & Analytics,3,Reports are super clear,2025-08-21
+74,44,2,Team Collaboration,5,Team chat is great,2025-08-27
+75,88,7,AI Suggestions,3,Suggestions are random sometimes,2025-11-04
+76,171,3,Dashboard Customization,3,Love custom dashboards,2025-09-14
+77,288,1,Billing & Payments,2,Payment keeps failing,2025-08-27
+78,244,5,File Sharing,3,Sharing links broke once,2025-09-26
+79,267,7,AI Suggestions,4,AI tips are helpful,2025-10-24
+80,244,8,Reporting & Analytics,2,Export buggy,2025-09-29
+81,188,2,Team Collaboration,4,Collab feels slow sometimes,2025-09-20
+82,13,1,Billing & Payments,3,Billing is confusing,2025-11-06
+83,186,6,Mobile Sync,5,App crashed offline,2025-09-08
+84,98,5,File Sharing,5,File upload fast,2025-07-23
+85,10,2,Team Collaboration,4,Collab feels slow sometimes,2025-08-12
+86,138,7,AI Suggestions,4,Suggestions are random sometimes,2025-08-12
+87,134,8,Reporting & Analytics,2,More filters needed,2025-08-20
+88,300,3,Dashboard Customization,2,Can't reorder widgets,2025-07-26
+89,161,8,Reporting & Analytics,3,Reports are super clear,2025-10-24
+90,46,2,Team Collaboration,4,Easy to work together,2025-08-25
+91,42,6,Mobile Sync,2,App crashed offline,2025-08-11
+92,98,7,AI Suggestions,5,Suggestions are random sometimes,2025-08-04
+93,285,3,Dashboard Customization,5,UI needs themes,2025-10-25
+94,3,2,Team Collaboration,4,Easy to work together,2025-07-29
+95,261,8,Reporting & Analytics,4,Reports are super clear,2025-10-12
+96,286,4,Task Automation,5,Automation saves me time,2025-08-15
+97,98,7,AI Suggestions,5,Suggestions are random sometimes,2025-08-01
+98,273,3,Dashboard Customization,3,Can't reorder widgets,2025-10-03
+99,167,4,Task Automation,4,Too many steps to set up rules,2025-09-13
+100,184,4,Task Automation,5,Automation saves me time,2025-07-30
+101,130,8,Reporting & Analytics,4,More filters needed,2025-08-14
+102,34,8,Reporting & Analytics,5,Export buggy,2025-09-06
+103,58,4,Task Automation,4,Too many steps to set up rules,2025-08-16
+104,192,7,AI Suggestions,4,AI tips are helpful,2025-10-22
+105,134,3,Dashboard Customization,3,UI needs themes,2025-08-11
+106,89,4,Task Automation,4,Too many steps to set up rules,2025-08-07
+107,230,5,File Sharing,4,Access control confusing,2025-07-31
+108,184,4,Task Automation,5,Too many steps to set up rules,2025-07-31
+109,285,3,Dashboard Customization,5,Can't reorder widgets,2025-10-11
+110,167,7,AI Suggestions,5,AI tips are helpful,2025-08-29
+111,81,7,AI Suggestions,2,Suggestions are random sometimes,2025-07-22
+112,28,2,Team Collaboration,3,Easy to work together,2025-10-26
+113,38,7,AI Suggestions,4,Suggestions are random sometimes,2025-11-16
+114,165,5,File Sharing,4,File upload fast,2025-09-17
+115,23,1,Billing & Payments,4,Billing is confusing,2025-10-03
+116,243,6,Mobile Sync,4,Sync works on my phone,2025-09-08
+117,230,5,File Sharing,3,Sharing links broke once,2025-08-13
+118,181,6,Mobile Sync,4,App crashed offline,2025-10-21
+119,182,3,Dashboard Customization,5,Love custom dashboards,2025-09-14
+120,13,8,Reporting & Analytics,4,More filters needed,2025-11-04
+121,289,4,Task Automation,4,Too many steps to set up rules,2025-09-11
+122,289,4,Task Automation,5,Too many steps to set up rules,2025-08-22
+123,34,5,File Sharing,3,Sharing links broke once,2025-09-05
+124,122,3,Dashboard Customization,4,UI needs themes,2025-09-21
+125,153,1,Billing & Payments,3,Checkout was smooth,2025-08-10
+126,78,1,Billing & Payments,4,Charged twice,2025-10-12
+127,271,7,AI Suggestions,3,AI tips are helpful,2025-09-19
+128,187,5,File Sharing,4,Sharing links broke once,2025-09-18
+129,256,8,Reporting & Analytics,2,More filters needed,2025-10-28
+130,153,6,Mobile Sync,5,App crashed offline,2025-07-20
+131,166,8,Reporting & Analytics,2,More filters needed,2025-08-24
+132,3,4,Task Automation,5,Automation saves me time,2025-07-10
+133,228,7,AI Suggestions,3,AI tips are helpful,2025-09-28
+134,245,5,File Sharing,3,Sharing links broke once,2025-07-07
+135,18,4,Task Automation,4,Automation saves me time,2025-07-08
+136,126,4,Task Automation,4,Too many steps to set up rules,2025-11-04
+137,12,1,Billing & Payments,4,Charged twice,2025-10-26
+138,8,3,Dashboard Customization,2,UI needs themes,2025-07-24
+139,179,6,Mobile Sync,5,App crashed offline,2025-08-20
+140,132,3,Dashboard Customization,3,Can't reorder widgets,2025-07-19
+141,239,3,Dashboard Customization,3,Love custom dashboards,2025-09-14
+142,176,8,Reporting & Analytics,2,Export buggy,2025-08-07
+143,271,6,Mobile Sync,5,Sync works on my phone,2025-09-13
+144,249,3,Dashboard Customization,5,Can't reorder widgets,2025-10-30
+145,12,4,Task Automation,3,Automation saves me time,2025-10-17
+146,42,7,AI Suggestions,4,Suggestions are random sometimes,2025-08-13
+147,10,1,Billing & Payments,2,Charged twice,2025-08-03
+148,3,6,Mobile Sync,3,Sync works on my phone,2025-08-02
+149,83,4,Task Automation,3,Too many steps to set up rules,2025-10-02
+150,83,8,Reporting & Analytics,4,Reports are super clear,2025-10-07
+151,75,3,Dashboard Customization,2,Love custom dashboards,2025-11-18
+152,10,6,Mobile Sync,4,App crashed offline,2025-08-10
+153,240,4,Task Automation,5,Too many steps to set up rules,2025-11-04
+154,222,5,File Sharing,4,File upload fast,2025-08-07
+155,256,7,AI Suggestions,4,Suggestions are random sometimes,2025-11-19
+156,83,6,Mobile Sync,4,App crashed offline,2025-10-05
+157,233,3,Dashboard Customization,3,UI needs themes,2025-10-24
+158,289,5,File Sharing,4,File upload fast,2025-09-06
+159,142,4,Task Automation,4,Too many steps to set up rules,2025-10-22
+160,296,5,File Sharing,2,File upload fast,2025-09-05
+161,239,4,Task Automation,5,Too many steps to set up rules,2025-09-30
+162,58,8,Reporting & Analytics,4,Reports are super clear,2025-09-06
+163,182,7,AI Suggestions,2,Suggestions are random sometimes,2025-09-05
+164,277,6,Mobile Sync,4,Sync works on my phone,2025-11-08
+165,173,2,Team Collaboration,3,Easy to work together,2025-10-13
+166,162,5,File Sharing,4,File upload fast,2025-10-12
+167,127,3,Dashboard Customization,3,Can't reorder widgets,2025-11-04
+168,247,4,Task Automation,4,Too many steps to set up rules,2025-11-09
+169,83,3,Dashboard Customization,4,UI needs themes,2025-10-17
+170,50,2,Team Collaboration,4,Team chat is great,2025-10-07
+171,217,8,Reporting & Analytics,4,Export buggy,2025-09-25
+172,256,1,Billing & Payments,2,Payment keeps failing,2025-11-02
+173,192,6,Mobile Sync,2,App crashed offline,2025-11-07
+174,161,4,Task Automation,4,Automation saves me time,2025-11-02
+175,113,5,File Sharing,4,Sharing links broke once,2025-10-05
+176,187,8,Reporting & Analytics,3,Reports are super clear,2025-09-28
+177,234,5,File Sharing,2,Sharing links broke once,2025-08-07
+178,103,6,Mobile Sync,5,App crashed offline,2025-09-01
+179,81,1,Billing & Payments,2,Payment keeps failing,2025-07-30
+180,75,1,Billing & Payments,2,Billing is confusing,2025-11-02
+181,29,6,Mobile Sync,5,Sync works on my phone,2025-10-16
+182,274,5,File Sharing,3,File upload fast,2025-08-15
+183,126,5,File Sharing,3,Access control confusing,2025-11-08
+184,247,1,Billing & Payments,2,Checkout was smooth,2025-11-07
+185,13,6,Mobile Sync,5,Sync works on my phone,2025-11-06
+186,176,5,File Sharing,3,Access control confusing,2025-07-27
+187,13,8,Reporting & Analytics,5,Reports are super clear,2025-11-05
+188,199,4,Task Automation,4,Automation saves me time,2025-11-04
+189,269,2,Team Collaboration,5,Easy to work together,2025-07-22
+190,217,8,Reporting & Analytics,5,Export buggy,2025-09-26
+191,289,6,Mobile Sync,3,Sync works on my phone,2025-09-07
+192,218,7,AI Suggestions,5,Suggestions are random sometimes,2025-10-08
+193,149,4,Task Automation,4,Automation saves me time,2025-10-26
+194,28,2,Team Collaboration,3,Collab feels slow sometimes,2025-10-28
+195,180,8,Reporting & Analytics,4,Reports are super clear,2025-10-22
+196,3,2,Team Collaboration,4,Team chat is great,2025-07-11
+197,240,2,Team Collaboration,4,Team chat is great,2025-11-05
+198,186,2,Team Collaboration,5,Team chat is great,2025-08-28
+199,155,6,Mobile Sync,4,App crashed offline,2025-07-27
+200,28,1,Billing & Payments,2,Charged twice,2025-10-20
